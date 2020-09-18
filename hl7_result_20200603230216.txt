@@ -1,0 +1,78 @@
+FHS|^~\
+BHS|^~\
+MSH|^~\&|ULTRA|QUESTLAB|TDMS|FRESENIUS|20200603230216||ORU^R01|ORU_R010000150305|P|2.3.1|||AL|ER|SG||en
+PID|1|G3848271N||G3848271N|ZHAO WEI REN||19680306|M||||||||||||||||||||MALAYSIAN
+PV1|1|O|SC28^^^^^^^^FRESENIUS MEDICAL CARE SINGAPORE PTE LTD - TANGLIN DIALYSIS||||F0352||||||||||||QF352-20-3558329
+ORC|RE|20-3558329^QUESTLAB|20-3558329-UA^ULTRA||CM||^^^20200603215400^^RT|X205289^UA&URIC ACID|20200603215400|||F0352
+OBR|1|20-3558329^QUESTLAB|20-3558329-UA^ULTRA|X205289^URIC ACID^QUE|||20200603215400|||||||||||||||20200603230000|||F|||||||gbl|||gbl&gbl
+OBX|1|NM|14933-6^Uric Acid (UMOL/L)^QUE||520.0|umol/L|(220 - 540)|N|||F
+OBX|2|NM|14933-6^Uric Acid^QUE||0.52|mmol/L|(0.22 - 0.54)|N|||F
+ORC|RE|20-3558329^QUESTLAB|20-3558329-FMC5^ULTRA||CM||^^^20200603215400^^RT|X112708^FMC5&HEALTH SCREEN (FMC5)|20200603215400|||F0352
+OBR|2|20-3558329^QUESTLAB|20-3558329-FMC5^ULTRA|X112708^HEALTH SCREEN (FMC5)^QUE|||20200603215400|||||||||||||||20200603230000|||F|||||||yuz|||yuz&yuz
+NTE|1||Remarks: Please refer to the MOH Clinical Practice Guideline 2/2016\.br\on Lipids for the full classification of total cholesterol, HDL, LDL\.br\and triglyceride requirements.
+OBX|1|TX|5909-7^Peripheral Blood Film^QUE||Shows slight degree of macrocytosis.|||N|||F
+OBX|2|NM|788-0^RDW^QUE||14.1|%|(11.0 - 15.5)|N|||F
+OBX|3|NM|786-4^MCHC^QUE||32|g/dL|(31 - 36)|N|||F
+OBX|4|NM|785-6^MCH^QUE||32|pg|(27 - 32)|N|||F
+OBX|5|NM|787-2^MCV^QUE||99|fL|(78 - 98)|A|||F
+OBX|6|NM|4544-3^Haematocrit (PCV) %^QUE||41|%|(40 - 54)|N|||F
+OBX|7|NM|4544-3^PCV^QUE||0.41||(0.40 - 0.54)|N|||F
+OBX|8|NM|706-2^Basophils(%)^QUE||1.3|%|(< 2.1)|N|||F
+OBX|9|NM|26450-7^Eosinophils(%)^QUE||5.3|%|(1.0 - 6.0)|N|||F
+OBX|10|NM|742-7^Monocytes^QUE||0.52|x10\R\9/L|(0.20 - 0.80)|N|||F
+OBX|11|NM|731-0^Lymphocytes^QUE||1.77|x10\R\9/L|(1.50 - 4.00)|N|||F
+OBX|12|NM|751-8^Neutrophils^QUE||4.90|x10\R\9/L|(2.00 - 7.50)|N|||F
+OBX|13|NM|777-3^Platelets^QUE||246|x10\R\9/L|(140 - 440)|N|||F
+OBX|14|NM|6690-2^Total White cell count^QUE||7.7|x10\R\9/L|(4.0 - 11.0)|N|||F
+OBX|15|NM|789-8^Red cell count^QUE||4.2|x10\R\12/L|(4.5 - 6.5)|A|||F
+OBX|16|NM|718-7^Haemoglobin^QUE||13.4|g/dL|(13.5 - 18.0)|A|||F
+OBX|17|NM|26485-3^Monocytes(%)^QUE||6.8|%|(2.0 - 11.0)|N|||F
+OBX|18|NM|26478-8^Lymphocytes(%)^QUE||23.0|%|(20.0 - 45.0)|N|||F
+OBX|19|NM|26511-6^Neutrophils(%)^QUE||63.6|%|(40.0 - 76.0)|N|||F
+OBX|20|NM|704-7^Basophils^QUE||0.10|x10\R\9/L|(< 0.21)|N|||F
+OBX|21|NM|711-2^Eosinophils^QUE||0.41|x10\R\9/L|(0.04 - 0.40)|A|||F
+OBX|22|NM|14927-8^Triglycerides^QUE||1.9|mmol/L|(< 1.7) Optimal|A|||F
+OBX|23|NM|32309-7^Cholesterol/HDL Ratio^QUE||4.2||(< 4.6)|N|||F
+OBX|24|NM|39469-2^LDL Cholesterol^QUE||3.3|mmol/L|(< 2.6) Optimal|A|||F
+OBX|25|NM|14646-4^HDL Cholesterol^QUE||1.3|mmol/L|(> 1.5) Optimal|A|||F
+OBX|26|NM|14647-2^Total Cholesterol^QUE||5.5|mmol/L|(< 5.2) Desirable|A|||F
+ORC|RE|20-3558329^QUESTLAB|20-3558329-FMC1^ULTRA||CM||^^^20200603215400^^RT|X112704^FMC1&HEALTH SCREEN (FMC1)|20200603215400|||F0352
+OBR|3|20-3558329^QUESTLAB|20-3558329-FMC1^ULTRA|X112704^HEALTH SCREEN (FMC1)^QUE|||20200603215400|||||||||||||||20200603230000|||F|||||||gbl|||gbl&gbl
+NTE|1||Non-haemolysed serum. Please exclude possible in vitro causes for\.br\elevated potassium. Please correlate clinically. Repeat with fresh\.br\sample if warranted.
+OBX|1|NM|29265-6^Corrected Calcium^QUE||2.41|mmol/L|(2.10 - 2.60)|N|||F
+OBX|2|NM|2000-8^Calcium^QUE||2.33|mmol/L|(2.10 - 2.60)|N|||F
+OBX|3|NM|14879-1^Phosphate^QUE||1.07|mmol/L|(0.65 - 1.45)|N|||F
+OBX|4|NM|1920-8^SGOT/AST^QUE||19|U/L|(< 41)|N|||F
+OBX|5|NM|1742-6^SGPT/ALT^QUE||11|U/L|(< 37)|N|||F
+OBX|6|NM|6768-6^Alkaline Phosphatase^QUE||422|U/L|(< 130)|A|||F
+OBX|7|NM|X300007^Albumin^QUE||41|g/L|(35 - 50)|N|||F
+OBX|8|NM|22664-7^Urea^QUE||22.9|mmol/L|(2.5 - 8.5)|A|||F
+OBX|9|NM|1963-8^Bicarbonate^QUE||24|mmol/L|(20 - 32)|N|||F
+OBX|10|NM|2823-3^Potassium^QUE||6.0|mmol/L|(3.3 - 5.1)|A|||F
+OBX|11|NM|2951-2^Sodium^QUE||137|mmol/L|(136 - 145)|N|||F
+OBX|12|NM|718-7^Haemoglobin^QUE||13.4|g/dL|(13.5 - 18.0)|A|||F
+OBX|13|NM|14682-9^Creatinine^QUE||949|umol/L|(50 - 120)|A|||F
+
+MSH|^~\&|ULTRA|QUESTLAB|TDMS|FRESENIUS|20200603230216||ORU^R01|ORU_R010000150306|P|2.3.1|||AL|ER|SG||en
+PID|1|S7483348I||S7483348I|BISCOCHO ANNALIZA GUTIERREZ - AFIFA BIS||19741127|F||||||||||||||||||||FILIPINO
+PV1|1|O|SC09^^^^^^^^FRESENIUS MEDICAL CARE SINGAPORE PTE LTD - BEDOK RESERVOIR||||K0036||||||||||||QK036-20-3688260
+ORC|RE|20-3688260^QUESTLAB|20-3688260-FMC1^ULTRA||CM||^^^20200603213000^^RT|X112704^FMC1&HEALTH SCREEN (FMC1)|20200603213000|||K0036
+OBR|1|20-3688260^QUESTLAB|20-3688260-FMC1^ULTRA|X112704^HEALTH SCREEN (FMC1)^QUE|||20200603213000|||||||||||||||20200603230000|||F|||||||gbl|||gbl&gbl
+OBX|1|NM|29265-6^Corrected Calcium^QUE||2.06|mmol/L|(2.10 - 2.60)|A|||F
+OBX|2|NM|2000-8^Calcium^QUE||2.00|mmol/L|(2.10 - 2.60)|A|||F
+OBX|3|NM|14879-1^Phosphate^QUE||1.34|mmol/L|(0.65 - 1.45)|N|||F
+OBX|4|NM|1920-8^SGOT/AST^QUE||26|U/L|(< 41)|N|||F
+OBX|5|NM|1742-6^SGPT/ALT^QUE||20|U/L|(< 37)|N|||F
+OBX|6|NM|6768-6^Alkaline Phosphatase^QUE||50|U/L|(< 105)|N|||F
+OBX|7|NM|X300007^Albumin^QUE||42|g/L|(35 - 50)|N|||F
+OBX|8|NM|22664-7^Urea^QUE||15.6|mmol/L|(2.5 - 8.0)|A|||F
+OBX|9|NM|1963-8^Bicarbonate^QUE||24|mmol/L|(20 - 32)|N|||F
+OBX|10|NM|2823-3^Potassium^QUE||5.0|mmol/L|(3.3 - 5.1)|N|||F
+OBX|11|NM|2951-2^Sodium^QUE||135|mmol/L|(136 - 145)|A|||F
+OBX|12|NM|718-7^Haemoglobin^QUE||10.1|g/dL|(11.5 - 16.5)|A|||F
+OBX|13|NM|14682-9^Creatinine^QUE||930|umol/L|(44 - 110)|A|||F
+
+BTS|^~\&
+FTS|^~\&
+
+
